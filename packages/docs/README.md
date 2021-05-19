@@ -2,7 +2,7 @@
 
 Welcome to the technical documentation site for the Celo project!
 
-In this documentation you’ll find information on:
+In this documentation you’ll find information on: 
 
 * An [overview](overview.md) of the high-level architecture of Celo
 * Tutorials to get you started with the [Celo SDK](developer-guide/start/) and the [Celo networks](getting-started/choosing-a-network.md)
